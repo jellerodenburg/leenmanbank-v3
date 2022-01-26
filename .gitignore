@@ -1,7 +1,7 @@
 # dependencies
-!**/src/resources/data
-!**/src/resources/static/dependencies
-!**/src/resources/static/images
+src/resources/data
+src/resources/static/dependencies
+src/resources/static/images
 
 HELP.md
 target/
